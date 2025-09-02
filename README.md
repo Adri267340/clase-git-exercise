@@ -12,5 +12,7 @@ ir a GitHub y crear el repositorio
 
 este archivo lo hice yo para practicar Git
 
+ejecutamos comando ls y podemos ver los archivos que hay en la carpeta 
+
 
 
