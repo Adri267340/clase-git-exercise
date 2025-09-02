@@ -10,3 +10,7 @@ probando como funciona git add y git commit
 
 ir a GitHub y crear el repositorio
 
+este archivo lo hice yo para practicar Git
+
+
+
