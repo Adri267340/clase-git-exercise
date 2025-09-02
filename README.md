@@ -6,3 +6,5 @@ configure mi usuario en Git por primera vez
 
 este archivo es solo para practicar commits
 
+probando como funciona git add y git commit
+
