@@ -4,3 +4,5 @@ instalar Git desde el navegador descargar archivo Git e instalarlo
 
 configure mi usuario en Git por primera vez
 
+este archivo es solo para practicar commits
+
