@@ -12,5 +12,5 @@ En la reunión del 2 de septiembre vimos:
 
 \- Cómo movernos entre ramas.
 
-\- Cómo hacer merge.
+\- Cómo hacer conflictos
 
